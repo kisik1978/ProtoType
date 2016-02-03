@@ -1,4 +1,4 @@
-package prototype.android.airbren.com.prototype;
+package com.airbren.android.prototype;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
